@@ -7,3 +7,5 @@ langgraph
 langchain-huggingface
 ddgs
 sentence-transformers
+langchain
+faiss-cpu
