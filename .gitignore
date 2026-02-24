@@ -214,3 +214,4 @@ __marimo__/
 .langgraph_api/
 .python-version
 .DS_Store
+vector_databases/*
