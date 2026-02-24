@@ -1,0 +1,9 @@
+jupyter
+datasets
+langchain-core
+langchain-community
+rank-bm25
+langgraph
+langchain-huggingface
+ddgs
+sentence-transformers
